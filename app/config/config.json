@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "fl0user",
+    "password": "2hjUKvlqrIb5",
+    "database": "admindatabase",
+    "host": "ep-frosty-tooth-48245050.ap-southeast-1.aws.neon.fl0.io",
+    "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    }
+  },
+  "test": {
+    "username": "fl0user",
+    "password": "2hjUKvlqrIb5",
+    "database": "admindatabase",
+    "host": "ep-frosty-tooth-48245050.ap-southeast-1.aws.neon.fl0.io",
+    "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    }
+  },
+  "production": {
+    "username": "fl0user",
+    "password": "2hjUKvlqrIb5",
+    "database": "admindatabase",
+    "host": "ep-frosty-tooth-48245050.ap-southeast-1.aws.neon.fl0.io",
+    "dialect": "postgres",
+    "ssl": true,
+    "dialectOptions": {
+      "ssl": {
+        "require": true
+      }
+    }
+  }
+}
